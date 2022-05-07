@@ -1,3 +1,5 @@
+# THIS REPO MAY NOT WORK. PLEASE UPDATE IT YOURSELF!
+
 # Telegram-Menu-Example
 
 This is an example of how to create Menus with multiple Pages.
